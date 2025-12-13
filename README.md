@@ -1,4 +1,3 @@
-cd C:\Users\DELL\Desktop\NTP_Project; $content = @'
 # TaskMaster - Görev ve Proje Yönetim Sistemi
 
 ## 📋 Proje Hakkında
