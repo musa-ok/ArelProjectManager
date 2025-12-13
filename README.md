@@ -139,4 +139,3 @@ Nesne Tabanlı Programlama Final Projesi
 ---
 
 **Not**: Bu proje Java nesne tabanlı programlama prensiplerini (kalıtım, polimorfizm, encapsulation, abstraction) uygulamak için geliştirilmiştir.
-'@; [System.IO.File]::WriteAllText("$PWD\README.md", $content, [System.Text.Encoding]::UTF8)
